@@ -1,7 +1,7 @@
 {
-  "url": "https://fell-recipients-bestsellers-sparc.trycloudflare.com",
-  "map": "https://fell-recipients-bestsellers-sparc.trycloudflare.com/",
-  "data": "https://fell-recipients-bestsellers-sparc.trycloudflare.com/ede/live.json",
-  "updated": "2026-10-15T23:28:53+02:00",
+  "url": "https://printers-synthetic-annex-epinions.trycloudflare.com",
+  "map": "https://printers-synthetic-annex-epinions.trycloudflare.com/",
+  "data": "https://printers-synthetic-annex-epinions.trycloudflare.com/ede/live.json",
+  "updated": "2026-10-15T23:36:07+02:00",
   "note": "Ede SMP livekaart, automatisch gezet door ede_tunnel.py"
 }
