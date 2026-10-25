@@ -1,7 +1,7 @@
 {
-  "url": "https://field-regulations-representations-owen.trycloudflare.com",
-  "map": "https://field-regulations-representations-owen.trycloudflare.com/",
-  "data": "https://field-regulations-representations-owen.trycloudflare.com/ede/live.json",
-  "updated": "2026-10-24T12:14:30+02:00",
+  "url": "https://temporal-bryant-routing-libraries.trycloudflare.com",
+  "map": "https://temporal-bryant-routing-libraries.trycloudflare.com/",
+  "data": "https://temporal-bryant-routing-libraries.trycloudflare.com/ede/live.json",
+  "updated": "2026-10-25T12:02:06+01:00",
   "note": "Ede SMP livekaart, automatisch gezet door ede_tunnel.py"
 }
