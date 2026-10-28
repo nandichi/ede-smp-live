@@ -1,7 +1,7 @@
 {
-  "url": "https://tied-herbs-pod-chapter.trycloudflare.com",
-  "map": "https://tied-herbs-pod-chapter.trycloudflare.com/",
-  "data": "https://tied-herbs-pod-chapter.trycloudflare.com/ede/live.json",
-  "updated": "2026-10-27T11:05:00+01:00",
+  "url": "https://objects-level-departure-kilometers.trycloudflare.com",
+  "map": "https://objects-level-departure-kilometers.trycloudflare.com/",
+  "data": "https://objects-level-departure-kilometers.trycloudflare.com/ede/live.json",
+  "updated": "2026-10-28T11:37:05+01:00",
   "note": "Ede SMP livekaart, automatisch gezet door ede_tunnel.py"
 }
